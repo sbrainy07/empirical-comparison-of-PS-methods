@@ -1,7 +1,7 @@
 # Empirical Comparison of Tree-Based Machine Learning Models for Estimating Generalized Propensity Scores in Multi-Category Treatment Settings
 
 **Oluwaseun Farotimi, Ph.D.** • **Deborah K. Reed, Ph.D.**
-University of Tennessee, Knoxville | College of Education, Health, and Human Sciences
+University of Tennessee, Knoxville 
 
 **▶ [View the poster online](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)** &nbsp;|&nbsp; **[Download the PDF](poster.pdf)**
 
